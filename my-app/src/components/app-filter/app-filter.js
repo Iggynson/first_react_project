@@ -1,4 +1,4 @@
-import './app-filter.css '
+import './app-filter.css'
 
 
 const AppFilter = () => {
@@ -7,19 +7,19 @@ const AppFilter = () => {
             <button 
             className="btn btn-light"
             type="button">
-                Все сотрудники
+                All Employees
             </button>
 
             <button 
             className="btn btn-outline-light"
             type="button">
-                На повышение
+                Ready For Promotion
             </button>
 
             <button 
             className="btn btn-outline-light"
             type="button">
-                З/П больше 1000$
+                Salary More 1000 Dollars
             </button>
         </div>
     );
